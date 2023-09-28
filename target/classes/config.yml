@@ -1,0 +1,2 @@
+# {killer} - убийца игрока
+message-death: '&b&l> &fВы были убиты игроком &c{killer}'

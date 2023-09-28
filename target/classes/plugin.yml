@@ -1,0 +1,6 @@
+name: LDMessageDeath
+author: LedDev
+website: vk.com/leddev_ru
+version: '1.0'
+main: me.leddev.ldmessagedeath.Main
+api-version: '1.16'
